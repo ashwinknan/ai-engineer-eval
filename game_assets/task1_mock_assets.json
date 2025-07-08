@@ -1,0 +1,80 @@
+[
+  {
+    "id": "texture_001",
+    "name": "main_character_diffuse.png",
+    "type": "texture",
+    "file_size_mb": 4.2,
+    "usage_count": 3,
+    "platforms": [
+      "PC",
+      "Console"
+    ],
+    "tags": [
+      "character",
+      "player",
+      "main"
+    ]
+  },
+  {
+    "id": "texture_002",
+    "name": "grass_tile_01.dds",
+    "type": "texture",
+    "file_size_mb": 0.8,
+    "usage_count": 47,
+    "platforms": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "tags": [
+      "environment",
+      "terrain",
+      "grass"
+    ]
+  },
+  {
+    "id": "texture_004",
+    "name": "unused_character_concept.bmp",
+    "type": "texture",
+    "file_size_mb": 12.4,
+    "usage_count": 0,
+    "platforms": [],
+    "tags": [
+      "concept",
+      "unused",
+      "character"
+    ]
+  },
+  {
+    "id": "audio_001",
+    "name": "background_music_forest.wav",
+    "type": "audio",
+    "file_size_mb": 45.2,
+    "usage_count": 23,
+    "platforms": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "tags": [
+      "music",
+      "background",
+      "forest"
+    ]
+  },
+  {
+    "id": "texture_003",
+    "name": "ui_main_menu_bg.png",
+    "type": "texture",
+    "file_size_mb": 3.7,
+    "usage_count": 8,
+    "platforms": [
+      "Mobile"
+    ],
+    "tags": [
+      "ui",
+      "menu",
+      "background"
+    ]
+  }
+]

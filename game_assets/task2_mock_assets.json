@@ -1,0 +1,56 @@
+[
+  {
+    "id": "texture_003",
+    "file_size_mb": 3.7,
+    "tags": [
+      "ui",
+      "menu",
+      "background"
+    ]
+  },
+  {
+    "id": "texture_005",
+    "file_size_mb": 2.8,
+    "tags": [
+      "ui",
+      "mobile",
+      "buttons"
+    ]
+  },
+  {
+    "id": "audio_004",
+    "file_size_mb": 12.8,
+    "tags": [
+      "ambient",
+      "wind",
+      "environment"
+    ]
+  },
+  {
+    "id": "model_002",
+    "file_size_mb": 2.1,
+    "tags": [
+      "environment",
+      "tree",
+      "background"
+    ]
+  },
+  {
+    "id": "texture_004",
+    "file_size_mb": 12.4,
+    "tags": [
+      "concept",
+      "unused",
+      "character"
+    ]
+  },
+  {
+    "id": "texture_001",
+    "file_size_mb": 4.2,
+    "tags": [
+      "character",
+      "player",
+      "main"
+    ]
+  }
+]
